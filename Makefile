@@ -1,2 +1,2 @@
-sofo: sofo.c
-	gcc sofo.c -o sofo -Wall -Wextra -pedantic -std=c99
+sofo: src/sofo.c
+	gcc src/sofo.c -o tests/sofo -Wall -Wextra -pedantic -std=c99
