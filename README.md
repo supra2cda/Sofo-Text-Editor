@@ -1,1 +1,0 @@
-# Sofo-Text-Editor
